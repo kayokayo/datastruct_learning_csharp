@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DuplicatesReport ToolsVersion="212.0.20211008.81907">
+  <Statistics>
+    <CodebaseCost>3052</CodebaseCost>
+    <TotalDuplicatesCost>294</TotalDuplicatesCost>
+    <TotalFragmentsCost>588</TotalFragmentsCost>
+  </Statistics>
+  <Duplicates>
+    <Duplicate Cost="156">
+      <Fragment>
+        <FileName>QueueThreadDemo\Program.cs</FileName>
+        <OffsetRange Start="1406" End="1960"></OffsetRange>
+        <LineRange Start="54" End="71"></LineRange>
+      </Fragment>
+      <Fragment>
+        <FileName>QueueThreadDemo\Program1.cs</FileName>
+        <OffsetRange Start="1448" End="2002"></OffsetRange>
+        <LineRange Start="54" End="71"></LineRange>
+      </Fragment>
+    </Duplicate>
+    <Duplicate Cost="138">
+      <Fragment>
+        <FileName>QueueThreadDemo\Program.cs</FileName>
+        <OffsetRange Start="851" End="1378"></OffsetRange>
+        <LineRange Start="33" End="49"></LineRange>
+      </Fragment>
+      <Fragment>
+        <FileName>QueueThreadDemo\Program1.cs</FileName>
+        <OffsetRange Start="893" End="1420"></OffsetRange>
+        <LineRange Start="33" End="49"></LineRange>
+      </Fragment>
+    </Duplicate>
+  </Duplicates>
+</DuplicatesReport>

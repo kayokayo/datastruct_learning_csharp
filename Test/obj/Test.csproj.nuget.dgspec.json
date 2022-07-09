@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/MyDataStruct.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/MyDataStruct.csproj",
+        "projectName": "MyDataStruct",
+        "projectPath": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/MyDataStruct.csproj",
+        "packagesPath": "/Users/kayo/.nuget/packages/",
+        "outputPath": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kayo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/Test/Test.csproj",
+        "packagesPath": "/Users/kayo/.nuget/packages/",
+        "outputPath": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kayo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/MyDataStruct.csproj": {
+                "projectPath": "/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/MyDataStruct.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

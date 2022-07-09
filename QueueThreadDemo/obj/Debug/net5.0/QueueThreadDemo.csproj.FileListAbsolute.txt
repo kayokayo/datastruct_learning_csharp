@@ -1,0 +1,15 @@
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/QueueThreadDemo.deps.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/QueueThreadDemo.runtimeconfig.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/QueueThreadDemo.runtimeconfig.dev.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/QueueThreadDemo.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/ref/QueueThreadDemo.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/bin/Debug/net5.0/QueueThreadDemo.pdb
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.csproj.AssemblyReference.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.AssemblyInfoInputs.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.AssemblyInfo.cs
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.csproj.CoreCompileInputs.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/ref/QueueThreadDemo.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.pdb
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/QueueThreadDemo/obj/Debug/net5.0/QueueThreadDemo.genruntimeconfig.cache

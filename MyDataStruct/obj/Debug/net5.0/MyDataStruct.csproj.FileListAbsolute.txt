@@ -1,0 +1,15 @@
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/MyDataStruct.deps.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/MyDataStruct.runtimeconfig.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/MyDataStruct.runtimeconfig.dev.json
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/MyDataStruct.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/ref/MyDataStruct.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/bin/Debug/net5.0/MyDataStruct.pdb
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.csproj.AssemblyReference.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.AssemblyInfoInputs.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.AssemblyInfo.cs
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.csproj.CoreCompileInputs.cache
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/ref/MyDataStruct.dll
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.pdb
+/Users/kayo/kayo/bingguo_all/e/unity_related/csharp_learning_01/MyDataStruct/obj/Debug/net5.0/MyDataStruct.genruntimeconfig.cache
