@@ -75,10 +75,10 @@ namespace Test
             // MyBinaryTree<object>.Test();
 
             Console.Write("hhhh");
-            Console.Write("fff-----");//MyQueue queue;
+            Console.Write("fff-----");//MyQueue queue;t
             // queue....
 // Console.
-
+//test
 
         }
 
